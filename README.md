@@ -8,5 +8,6 @@ Esta é minha primeira página desenvolvida na disciplina Programação Web.
 - GitHub
 ## Evidência da atividade
 A captura de tela abaixo mostra a página aberta no navegador e a alteração temporária de CSS realizada com o DevTools.
-! [Evidência do DevTools]
+
+![Evidência do DevTools]
 (evidencia-devtools.png)
